@@ -11,7 +11,7 @@ SESSION_CONFIGS = [
         expShortName="CBDC_0.5", # Replace with your values
         expId=17, # Replace with your values
         sessId=0000000000, # Replace with your values
-        use_browser_bots=True,
+        #use_browser_bots=True,
     )]  
 
 # if you set a property in SESSION_CONFIG_DEFAULTS, it will be inherited by all configs
